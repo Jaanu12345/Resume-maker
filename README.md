@@ -10,8 +10,11 @@ I am excited to introduce Resume Maker, a dynamic and user-friendly Resume Build
 # 2) Adaptive Design
    __Accessibility: Recognizing the importance of accessibility, the Resume Builder boasts an adaptive design. It tailors the user interface to various screen sizes, enabling users to navigate and craft resumes on- 
    the-go, be it on a desktop, tablet, or smartphone.__
+# 3)  User-Centric Approach:
+__Simplicity and Clarity: The user interface is meticulously designed with simplicity and clarity in mind.____
+__Customization: Through a carefully crafted user journey, individuals can input information, choose from customizable templates, and generate professional resumes tailored to their unique preferences.__
 
-# 3) Intuitive Interface
+# 4) Intuitive Interface
    __User-Friendly Design: An emphasis on a user-friendly design ensures a smooth and intuitive experience.__
    
    __Guided Process: The interface guides users effortlessly through the resume creation process, making it a straightforward and enjoyable experience.__
