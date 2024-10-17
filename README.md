@@ -19,3 +19,9 @@ __Customization: Through a carefully crafted user journey, individuals can input
    __User-Friendly Design: An emphasis on a user-friendly design ensures a smooth and intuitive experience.__
    
    __Guided Process: The interface guides users effortlessly through the resume creation process, making it a straightforward and enjoyable experience.__
+
+# 5) Time-Efficient:
+
+__Streamlined Process: With a focus on efficiency, the Resume Builder streamlines the resume creation process.__
+
+__Impactful Resumes: Users can craft impactful resumes in minimal time, making the platform a time-efficient tool for individuals seeking to present their professional stories effectively.__
