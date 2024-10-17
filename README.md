@@ -1,6 +1,6 @@
 # RESUME MAKER
 
-I am excited to introduce Resume Maker, a dynamic and user-friendly Resume Builder website, meticulously crafted with a combination of HTML, CSS, and JavaScript.
+__I am excited to introduce Resume Maker, a dynamic and user-friendly Resume Builder website, meticulously crafted with a combination of HTML, CSS, and JavaScript.__
 
 # Key Features:
 
@@ -11,7 +11,8 @@ I am excited to introduce Resume Maker, a dynamic and user-friendly Resume Build
    __Accessibility: Recognizing the importance of accessibility, the Resume Builder boasts an adaptive design. It tailors the user interface to various screen sizes, enabling users to navigate and craft resumes on- 
    the-go, be it on a desktop, tablet, or smartphone.__
 # 3)  User-Centric Approach:
-__Simplicity and Clarity: The user interface is meticulously designed with simplicity and clarity in mind.____
+__Simplicity and Clarity: The user interface is meticulously designed with simplicity and clarity in mind.__
+
 __Customization: Through a carefully crafted user journey, individuals can input information, choose from customizable templates, and generate professional resumes tailored to their unique preferences.__
 
 # 4) Intuitive Interface
